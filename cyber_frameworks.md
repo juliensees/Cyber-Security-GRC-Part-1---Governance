@@ -24,5 +24,39 @@
   - Proactive: Cybersecurity frameworks promote a proactive approach to cybersecurity. By focusing on preventing cybersecurity incidents before they occur,   organisations can reduce the likelihood and impact of a cybersecurity breach.
   - Continuous improvement: Cybersecurity frameworks encourage organisations to continually review and update their cybersecurity policies and procedures to stay   ahead of emerging threats and technology. This helps organisations adapt to new risks and technologies and maintain their cybersecurity posture over time.
   - Cost-Effective: Cybersecurity frameworks can help organisations allocate resources more effectively by prioritising their cybersecurity efforts based on risk.   This can reduce the overall cost of cybersecurity while still providing adequate protection for sensitive information.  
-2
 
+### NIST (National Institute of Standards and Technology) Framework
+  - develops cybersecurity standards, guidelines, best practices, and other resources to meet the needs of U.S. industry, federal agencies and the broader public.
+    
+###  Identify 
+      - Identify critical enterprise processes and assets: most important assets that cannot stop, info remains accessible and accurate   
+      - Document information flows: type, where it located, how it's used, contracts with external partners, etc  
+      - Maintain hardware and software inventory: could just be a spreadsheet, but should include everything at the enterprise... where a hacker might first look
+      - Establish policies for cybersecurity that include roles and responsibilities: These policies and procedures should clearly describe your expectations for               how cybersecurity activities will protect your information and systems, and how they support critical enterprise processes.
+      - Identify threats, vulnerabilities, and risk to assets: Ensure risk management processes are established and managed to ensure internal and external threats           are identified, assessed, and documented in risk registers.
+      
+###  Protect
+      - Manage access to assets and information: unique accounts for each employee, with mFA, and tight passwords, and manage/track physical assets  
+      - Protect sensitive data: encryption of transferred data, delete old data, Consider utilizing integrity checking to ensure only approved changes to the data              have been made. 
+      - Conduct regular backups  
+      - Protect your devices: Consider installing hostbased firewalls and other protections such as endpoint security products. Apply uniform configurations to                 devices and control changes to device configurations, Ensure that there is a policy and that devices are disposed of securely.  
+      - Manage device vulnerabilities: regularly update operating system and software, and possible tools to scan devices for vulnerabilities  
+      - Train users: regularly update users: Regularly train and retrain all users to be sure that they are aware of enterprise cybersecurity policies   
+
+### Detect
+      - Test and update detection processes: develop and test processes for detecting unauthorized entities on networks and physical environment
+      - Maintain and monitor logs: These logs record events such as changes to systems or accounts as well as the initiation of communication channels. 
+      - Know the expected data flows for your enterprise: You are much more likely to notice when the unexpected happens    
+      - Understand the impact of cybersecurity events: Communicating information on the event with appropriate stakeholders will help keep you in good stead in               terms of partners, oversight bodies, and others (potentially including investors) and improve policies and processes.  
+
+### Respond
+      - Ensure response plans are tested: This includes knowing any legal reporting requirements or required information sharing.
+      - Ensure response plans are updated: Testing the plan (and execution during an incident) inevitably will reveal needed improvements.
+      - Coordinate with internal and external stakeholders: Eveyrone should know the plan of action if something happens
+
+### Recover
+      - Communicate with internal and external stakeholders: Your recovery plans need to carefully account for what, how, and when information will be shared with           various stakeholders so that all interested parties receive the information they need but no inappropriate information is shared.  
+      - Ensure recovery plans are updated: testing execution of the plan will improve employee and partner awareness and highlight areas for improvement
+      - Manage public relations and company reputation: consider how you will manage public relations so that your information sharing is accurate, complete, and             timely – and not reactionary.  
+
+### COBIT (Control Objectives for Information and Related Technology) Framework 

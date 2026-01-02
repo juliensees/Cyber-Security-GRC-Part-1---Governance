@@ -59,4 +59,24 @@
       - Ensure recovery plans are updated: testing execution of the plan will improve employee and partner awareness and highlight areas for improvement
       - Manage public relations and company reputation: consider how you will manage public relations so that your information sharing is accurate, complete, and             timely – and not reactionary.  
 
-### COBIT (Control Objectives for Information and Related Technology) Framework 
+### COBIT (Control Objectives for Information and Related Technology) Framework   ---- layered above NIST
+  - Decision-making, Accountability, Measurement, Alignment with business value  
+  - the audience of COBIT is: Executives, Boards, Risk & compliance, Internal audit, GRC teams
+  - Who is accountable for access risk?... Is access control aligned with business risk tolerance? How is effectiveness measured? How are exceptions approved and         reviewed?
+  - Governance: EDM – Evaluate, Direct, Monitor
+                -Set direction
+                -Approve risk appetite
+                -Monitor performance
+  - Management:
+      APO – Align, Plan, Organize  
+                  (strategy, risk management, policies)  
+      BAI – Build, Acquire, Implement  
+                  (projects, change management)  
+      DSS – Deliver, Service, Support  
+                  (operations, incident handling — overlaps strongly with NIST Respond/Recover)  
+      MEA – Monitor, Evaluate, Assess  
+                  (metrics, audits, continuous improvement)  
+    
+Knowing NIST = credibility with engineers and SOC  
+Knowing COBIT = credibility with auditors, management, boards  
+
